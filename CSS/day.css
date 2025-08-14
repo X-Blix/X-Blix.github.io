@@ -1,0 +1,387 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+html,body {
+    height: 100%;
+	width:100%;
+    text-align: center;
+    margin: 0px auto;
+}
+
+div#container {
+    position: relative;
+    margin: 0;
+	padding:0;
+    width: 100%;
+    height: 90%;
+    min-height: 90%;
+    text-align: left;
+}
+
+
+/* body > #container {
+    height: auto;
+} */
+
+
+div#contents {
+     margin:20px;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+#header,
+#footer {
+    width: 100%;
+    height: 0px;
+    color: #FFFFFF;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+}
+ 
+#footer {
+    position: relative;
+    bottom: 38px;
+}
+
+#footer p{
+     font-size:9px;
+    padding-top: 0;
+      color:#FFFFFF;
+}
+
+
+a {
+     font-size:18px;
+      color:#FFFFFF;
+}
+
+
+/* 要在打开的页面里显示的背景颜色，和birthdaycolor.css里的一样 */
+#d0101{
+      background-color:#034415;
+      color:#FFFFFF;
+
+}
+
+
+#d0201{
+    background-color:#9fa09e;
+	  color:#FFFFFF;
+	  cursor: pointer;
+}
+
+
+#d0301{
+      background-color:#68A9CF;
+  	  color:#FFFFFF;
+      cursor: pointer;
+}
+
+
+#d0401{
+      background-color:#B36029;
+	  color:#FFFFFF;
+	  cursor: pointer;
+}
+
+#d0501{
+      background-color:#afb293;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d0601{
+      background-color:#afafb5;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d0701{
+      background-color:#d5dad4;
+      color:#000000;
+	  cursor: pointer;
+}
+
+#d0801{
+      background-color:#223a70;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+
+#d0901{
+      background-color:#7b7c7d;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d1001{
+      background-color:#d3381c;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d1101{
+      background-color:#7d7d7d;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+
+
+#d1201{
+      background-color:#afb293;
+      color:#000000;
+	    cursor: pointer;
+}
+
+
+#d0102{
+      background-color:#e5cc96;
+      color:#000000;
+  	  cursor: pointer;
+}
+
+#d0202{
+      background-color:#473a17;
+	    color:#FFFFFF;
+  	  cursor: pointer;
+}
+
+#d0302{
+
+    background-color:#70c6f5;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+}
+
+
+#d0402{
+
+    background-color:#164a84;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+}
+
+
+
+#d0502{
+
+    background-color:#bb5520;
+	color:#000000;
+  	cursor: pointer;
+
+}
+
+
+#d0602{
+
+    background-color:#6c6a6d;
+	color:#000000;
+  	cursor: pointer;
+
+}
+
+
+
+#d0702{
+
+    background-color:#e8383d;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+}
+
+
+#d0802{
+
+    background-color:#a29779;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+}
+
+
+#d0902{
+
+    background-color:#c39143;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+}
+
+#d1002{
+      background-color:#626063;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+
+ #d1102{
+      background-color:#736D71;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d1202{
+    background-color:#d0af4c;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+
+
+#d0103{
+      background-color:#949495;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0203{
+      background-color:#bce2e8;
+	color:#000000;
+  	cursor: pointer;
+}
+
+
+#d0303{
+    background-color:#89c3eb;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0403{
+    background-color:#e23620;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0503{
+    background-color:#460e44;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0603{
+      background-color:#70c6f5;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0703{
+      background-color:#94adda;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0803{
+      background-color:#f16f4f;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0903{
+      background-color:#bccddb;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+
+#d1003{
+      background-color:#b7282e;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d1103{
+      background-color:#b36029;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d1203{
+      background-color:#4c5e74;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+/* ----------------------------------------- */
+#d0104{
+    background-color:#bbe2f1;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0204{
+    background-color:#127ea8;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0304{
+    background-color:#926dff;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0404{
+    background-color:#49174c;
+	color:#ffffff;
+  	cursor: pointer;
+}
+
+#d0504{
+    background-color:#2fa53f;
+	color:#ffffff;
+  	cursor: pointer;
+}
+
+#d0604{
+    background-color:#c1253a;
+	color:#ffffff;
+  	cursor: pointer;
+}
+
+#d0704{
+    background-color:#faffcd;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0804{
+    background-color:#cfb7eb;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0904{
+    background-color:#a7a7a7;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d1004{
+    background-color:#ff9ef0;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d1104{
+    background-color:#99ffa6;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d1204{
+    background-color:#ff6378;
+	color:#000000;
+  	cursor: pointer;
+}

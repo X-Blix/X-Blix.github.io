@@ -1,0 +1,26 @@
+/* table.slashTable, table.slashTable td
+{
+  margin:0;
+  padding:0;
+}
+
+table.slashTable td
+{
+  height:1px;
+}
+
+
+table.slashTable td.slash
+{
+  background-color:#333;
+}
+
+td.withSlash
+{
+  padding:0px;
+  overflow:hidden;
+} */
+
+
+/* 根据deepseek的意思，是这段代码是给表格里面加斜线的....
+然后如果我不想要斜线的话，应该屏蔽掉也没问题吧...... */

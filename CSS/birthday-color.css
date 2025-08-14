@@ -1,0 +1,399 @@
+* { margin:0; padding:0;}
+
+
+body { 
+  background:#FFFFE5; 
+  font-family: 'Arial', sans-serif;
+  font-size:90%; 
+  /* line-height:em;  */
+  color:#393939; 
+  min-width:980px;
+
+  margin:0;
+	padding:0;
+	height:100%;
+}
+
+
+
+  .title {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: #fff;
+    background-color: #3498db;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+
+  /* 合并内外边框 */
+table {
+        border-collapse: collapse;
+            
+}
+
+tr,td {
+  padding:0px 0px 50px 2px;
+	border-color:#8b8b8bd3;
+ 	/* line-height:2em; */
+	font-size:1em;
+	text-align:left
+}
+
+
+h2{
+	color: #ffffff;
+	font-size:14px;
+	margin:0px;
+}
+
+
+
+.rb{
+  background-image:url(../image/triangle.gif);
+	 background-repeat:no-repeat;
+	 background-position:right bottom;
+	 width:8.3%;
+	 font-size:16px;
+  color: #dedede;
+
+}
+
+.noday{
+     background-image:url(../image/ami.jpg);
+	    background-repeat:repeat;
+}
+
+
+/* 之后的样式照着这个往下排就可以了， */
+
+
+
+/* 第一行第一行第一行第一行第一行第一行第一行 */
+#d0101{
+      background-color:#034415;
+      color:#FFFFFF;
+  	  cursor: pointer;
+}
+
+
+#d0201{
+    background-color:#9fa09e;
+	  color:#FFFFFF;
+	  cursor: pointer;
+}
+
+
+/* 颜色是深色的话，要让文字显示白色需要多加一行 */
+
+#d0301{
+      background-color:#68A9CF;
+  	  color:#FFFFFF;
+      cursor: pointer;
+}
+
+
+#d0401{
+      background-color:#B36029;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d0501{
+      background-color:#afb293;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+
+#d0601{
+      background-color:#afafb5;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d0701{
+      background-color:#d5dad4;
+      color:#000000;
+	    cursor: pointer;
+}
+
+
+#d0801{
+      background-color:#223a70;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d0901{
+      background-color:#7b7c7d;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d1001{
+      background-color:#d3381c;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d1101{
+      background-color:#7d7d7d;
+	    color:#FFFFFF;
+	    cursor: pointer;
+}
+
+#d1201{
+      background-color:#afb293;
+      color:#000000;
+	    cursor: pointer;
+}
+
+/* 第二行第二行第二行第二行第二行第二行第二行 */
+
+
+#d0102{
+      background-color:#e5cc96;
+      color:#000000;
+  	  cursor: pointer;
+}
+
+#d0202{
+
+      background-color:#473a17;
+	    color:#FFFFFF;
+  	  cursor: pointer;
+
+}
+
+
+#d0302{
+
+      background-color:#70c6f5;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+}
+
+
+
+#d0402{
+
+    background-color:#164a84;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+} 
+
+
+#d0502{
+
+    background-color:#bb5520;
+	color:#000000;
+  	cursor: pointer;
+
+}
+
+
+#d0602{
+
+    background-color:#6c6a6d;
+	color:#000000;
+  	cursor: pointer;
+
+}
+
+
+#d0702{
+
+    background-color:#e8383d;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+}
+
+
+#d0802{
+
+    background-color:#a29779;
+	color:#FFFFFF;
+  	cursor: pointer;
+
+}
+
+
+#d0902{
+    background-color:#c39143;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+
+#d1002{
+      background-color:#626063;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+
+
+ #d1102{
+      background-color:#736D71;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d1202{
+      background-color:#d0af4c;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+
+#d0103{
+      background-color:#949495;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0203{
+      background-color:#bce2e8;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0303{
+    background-color:#89c3eb;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0403{
+    background-color:#e23620;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0503{
+    background-color:#460e44;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0603{
+      background-color:#70c6f5;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0703{
+      background-color:#94adda;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d0803{
+      background-color:#f16f4f;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+
+#d0903{
+      background-color:#bccddb;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d1003{
+      background-color:#b7282e;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d1103{
+      background-color:#b36029;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+#d1203{
+      background-color:#4c5e74;
+	color:#FFFFFF;
+  	cursor: pointer;
+}
+
+/* ----------------------------------------- */
+#d0104{
+    background-color:#bbe2f1;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0204{
+    background-color:#127ea8;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0304{
+    background-color:#926dff;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0404{
+    background-color:#49174c;
+	color:#ffffff;
+  	cursor: pointer;
+}
+
+#d0504{
+    background-color:#2fa53f;
+	color:#ffffff;
+  	cursor: pointer;
+}
+
+#d0604{
+    background-color:#c1253a;
+	color:#ffffff;
+  	cursor: pointer;
+}
+
+#d0704{
+    background-color:#faffcd;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0804{
+    background-color:#cfb7eb;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d0904{
+    background-color:#a7a7a7;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d1004{
+    background-color:#ff9ef0;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d1104{
+    background-color:#99ffa6;
+	color:#000000;
+  	cursor: pointer;
+}
+
+#d1204{
+    background-color:#ff6378;
+	color:#000000;
+  	cursor: pointer;
+}
+
+
