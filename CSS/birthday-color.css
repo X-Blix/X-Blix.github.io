@@ -65,6 +65,76 @@ h2{
 }
 
 
+/* day.css里面的东西，不知道为啥加载不出来... */
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+html,body {
+    height: 100%;
+	width:100%;
+    text-align: center;
+    margin: 0px auto;
+}
+
+div#container {
+    position: relative;
+    margin: 0;
+	padding:0;
+    width: 100%;
+    height: 90%;
+    min-height: 90%;
+    text-align: left;
+}
+
+
+/* body > #container {
+    height: auto;
+} */
+
+
+div#contents {
+     margin:20px;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+#header,
+#footer {
+    width: 100%;
+    height: 0px;
+    color: #FFFFFF;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+}
+ 
+#footer {
+    position: relative;
+    bottom: 38px;
+}
+
+#footer p{
+     font-size:9px;
+    padding-top: 0;
+      color:#FFFFFF;
+}
+
+
+a {
+     font-size:18px;
+      color:#FFFFFF;
+}
+
+
+
+
 /* 之后的样式照着这个往下排就可以了， */
 
 
